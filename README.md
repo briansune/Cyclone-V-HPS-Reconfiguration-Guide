@@ -28,3 +28,7 @@ As for the driver just runs the command and reprobe the devices:
 sudo modprobe -r xxxxxx
 sudo modprobe xxxxxx
 ```
+
+### Tested Platform
+
+Custom Board, Quartus Prime 18.1, Kernel 6.12.11 dirty
