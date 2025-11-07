@@ -1,5 +1,13 @@
 # Cyclone-V-HPS-Reconfiguration-Guide
 
+## If this project is constructive, welcome to donate a drink to PayPal.
+
+<img src="images/qrcode.png" style="height:20%; width:20%">
+
+or 
+
+paypal.me/briansune
+
 ## Markdown project to log the latest kernel reconfiguration method.
 
 ### Issues
